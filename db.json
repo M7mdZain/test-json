@@ -1,1 +1,119 @@
+{
+   "response": {
+		"popular":[
+		  {
+			 "name":"Pizza",
+			 "imageURL":"https://static4.depositphotos.com/1016418/315/i/600/depositphotos_3158962-stock-photo-pepperoni-pizza-isolated.jpg",
+			 "rating":"4.8",
+			 "deliveryTime":"45 min",
+			 "deliveryCharges":"Free Delivery",
+			 "price":"15",
+			 "note":"Delicious"
+		  },
+		  {
+			 "name":"Chick-Fil-A",
+			 "imageURL":"https://media.istockphoto.com/photos/chicken-bacon-club-sandwich-picture-id585602032?k=6&m=585602032&s=612x612&w=0&h=DzlMVMOaqC25Zf78NPGzr9nLOf7wANEgv9u_vScu4d8=",
+			 "rating":"5.0",
+			 "deliveryTime":"15 min",
+			 "deliveryCharges":"3",
+			 "price":"7",
+			 "note":"Classic"
+		  },
+		  {
+			 "name":"Mac & Cheese",
+			 "imageURL":"https://media.istockphoto.com/photos/homemade-baked-creamy-macaroni-and-cheese-picture-id483485720?k=6&m=483485720&s=612x612&w=0&h=u2Wb4hR0cIqNAm8q_4j-oFPrtC4hT_YXaq2srA2zmqI=",
+			 "rating":"4.7",
+			 "deliveryTime":"20 min",
+			 "deliveryCharges":"1",
+			 "price":"4",
+			 "note":"Homestyle"
+		  }
+	   ],
+	   "recommended":[
+		  {
+			 "name":"Chicken Tikka Masala",
+			 "imageURL":"https://media.istockphoto.com/photos/chicken-tikka-masala-curry-with-rice-and-naan-bread-picture-id1143530019?k=6&m=1143530019&s=612x612&w=0&h=aOCxTVcwi88NHCX9-xgNu7cmPX9rq5AGtEVYblNTnGc=",
+			 "rating":"4.8",
+			 "deliveryTime":"25 min",
+			 "deliveryCharges":"2",
+			 "price":"14",
+			 "note":"Fan Favorite"
+		  },
+		  {
+			 "name":"Strawberry Milkshake",
+			 "imageURL":"https://thumbs.dreamstime.com/b/strawberry-milkshake-covered-whipped-cream-plastic-glass-isolated-white-background-44432579.jpg",
+			 "rating":"4.5",
+			 "deliveryTime":"10 min",
+			 "deliveryCharges":"0",
+			 "price":"4",
+			 "note":"Chilly"
+		  },
+		  {
+			 "name":"3 Tacos",
+			 "imageURL":"https://previews.123rf.com/images/gdolgikh/gdolgikh1703/gdolgikh170300221/74432760-mexican-tacos-with-beef.jpg",
+			 "rating":"4.6",
+			 "deliveryTime":"17 min",
+			 "deliveryCharges":"1",
+			 "price":"12",
+			 "note":"Hard or Soft Shell"
+		  }
+	   ],
+	   "allmenu":[
+		  {
+			 "name":"Pizza",
+			 "imageURL":"https://static4.depositphotos.com/1016418/315/i/600/depositphotos_3158962-stock-photo-pepperoni-pizza-isolated.jpg",
+			 "rating":"4.8",
+			 "deliveryTime":"45 min",
+			 "deliveryCharges":"Free Delivery",
+			 "price":"15",
+			 "note":"Delicious"
+		  },
+		  {
+			 "name":"Chick-Fil-A",
+			 "imageURL":"https://media.istockphoto.com/photos/chicken-bacon-club-sandwich-picture-id585602032?k=6&m=585602032&s=612x612&w=0&h=DzlMVMOaqC25Zf78NPGzr9nLOf7wANEgv9u_vScu4d8=",
+			 "rating":"5.0",
+			 "deliveryTime":"15 min",
+			 "deliveryCharges":"3",
+			 "price":"7",
+			 "note":"Classic"
+		  },
+		  {
+			 "name":"Mac & Cheese",
+			 "imageURL":"https://media.istockphoto.com/photos/homemade-baked-creamy-macaroni-and-cheese-picture-id483485720?k=6&m=483485720&s=612x612&w=0&h=u2Wb4hR0cIqNAm8q_4j-oFPrtC4hT_YXaq2srA2zmqI=",
+			 "rating":"4.7",
+			 "deliveryTime":"20 min",
+			 "deliveryCharges":"1",
+			 "price":"4",
+			 "note":"Homestyle"
+		  },
+		  {
+			 "name":"Chicken Tikka Masala",
+			 "imageURL":"https://media.istockphoto.com/photos/chicken-tikka-masala-curry-with-rice-and-naan-bread-picture-id1143530019?k=6&m=1143530019&s=612x612&w=0&h=aOCxTVcwi88NHCX9-xgNu7cmPX9rq5AGtEVYblNTnGc=",
+			 "rating":"4.8",
+			 "deliveryTime":"25 min",
+			 "deliveryCharges":"2",
+			 "price":"14",
+			 "note":"Fan Favorite"
+		  },
+		  {
+			 "name":"Strawberry Milkshake",
+			 "imageURL":"https://thumbs.dreamstime.com/b/strawberry-milkshake-covered-whipped-cream-plastic-glass-isolated-white-background-44432579.jpg",
+			 "rating":"4.5",
+			 "deliveryTime":"10 min",
+			 "deliveryCharges":"0",
+			 "price":"4",
+			 "note":"Chilly"
+		  },
+		  {
+			 "name":"3 Tacos",
+			 "imageURL":"https://previews.123rf.com/images/gdolgikh/gdolgikh1703/gdolgikh170300221/74432760-mexican-tacos-with-beef.jpg",
+			 "rating":"4.6",
+			 "deliveryTime":"17 min",
+			 "deliveryCharges":"1",
+			 "price":"12",
+			 "note":"Hard or Soft Shell"
+		  }
+	   ]
+	}
+}
 
